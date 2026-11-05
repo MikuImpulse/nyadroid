@@ -1,2 +1,2 @@
 # nyadroid
-Gaming Android emulator that uses QEMU and Bliss OS system images, designed for Linux-based operating systems that use Wayland-based desktop environments. It supports Vulkan and OpenGL and is similar to BlueStacks 5
+A gaming Android emulator for Linux-based operating systems that uses QEMU with the KVM hypervisor and Bliss OS system images. It supports Vulkan and OpenGL on Wayland display servers and is essentially a clone of BlueStacks 5.
